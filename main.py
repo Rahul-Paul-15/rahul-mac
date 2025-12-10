@@ -15,3 +15,6 @@ def multiply(a, b):
 
 def modulus(a, b):
     return a % b
+
+def exponent(a, b):
+    return a ** b
