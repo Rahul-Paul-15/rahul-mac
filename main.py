@@ -6,3 +6,6 @@ print(add(10,5))
 
 def subtract(a, b):
     return a  - b 
+
+def divide(a, b):
+    return a / b
